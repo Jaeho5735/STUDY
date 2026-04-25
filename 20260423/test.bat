@@ -1,0 +1,1 @@
+python C:\MULTICAM_11\20260423\test.bat
