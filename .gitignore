@@ -1,0 +1,5 @@
+# .gitignore 파일 내용 예시
+data/
+*.csv
+*.xlsx
+*.pkl
